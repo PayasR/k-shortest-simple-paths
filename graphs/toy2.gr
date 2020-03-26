@@ -1,0 +1,24 @@
+c ----------------------------------------------------
+c 9th DIMACS Implementation Challenge: Shortest Paths
+c http://www.dis.uniroma1.it/~challenge9
+c ----------------------------------------------------
+c Directed road network of the city of Rome (1999)
+c Edge costs are physical distances in meters
+c Contributed by: 
+c     Gianni Storchi, Univ. Rome "La Sapienza"
+c     Paolo Dell'Olmo, Univ. Rome "La Sapienza"
+c     Monica Gentili, Univ. Salerno
+c Converted in DIMACS Challenge 9 format by:   
+c     Umberto Ferraro Petrillo
+c     Univ. Rome "La Sapienza"
+c ----------------------------------------------------
+p sp 6 9
+a 0 1 1
+a 0 3 2
+a 1 2 1
+a 2 3 2
+a 2 5 1
+a 3 1 1
+a 3 4 2
+a 4 2 1
+a 4 5 3
